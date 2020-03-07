@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-sprint"
+CONFIG_LOCALVERSION="-Fasak Kernel by sai"
 # CONFIG_LOCALVERSION_AUTO is not set
 VENDOR_EDIT=y
 # CONFIG_FHANDLE is not set
